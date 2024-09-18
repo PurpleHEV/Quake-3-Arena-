@@ -2,7 +2,7 @@
 	"name": "Quake III Arena",
 	"short_name": "Quake III Arena",
 	"lang": "en-US",
-	"start_url": "https://lrusso.github.io/Quake3/Quake3.htm",
+	"start_url": "https://github.com/PurpleHEV/Quake-3-Arena-Demo/Quake3.htm",
 	"display": "standalone",
 	"orientation": "landscape",
 	"theme_color": "#000000",
